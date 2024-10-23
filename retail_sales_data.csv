@@ -1,0 +1,16 @@
+Date,Product,Category,Region,Sales,Quantity,Discount
+2024-10-01,Shirt,Clothing,North,500,3,10
+2024-10-02,Trousers,Clothing,South,700,2,15
+2024-10-03,Shoes,Footwear,East,1200,1,5
+2024-10-04,Hat,Accessories,West,300,5,20
+2024-10-05,Bag,Accessories,North,1500,2,25
+2024-10-06,Socks,Footwear,South,100,10,5
+2024-10-07,Watch,Accessories,East,2500,1,30
+2024-10-08,Shirt,Clothing,West,600,4,10
+2024-10-09,Trousers,Clothing,North,800,3,15
+2024-10-10,Shoes,Footwear,South,1300,2,5
+2024-10-11,Hat,Accessories,East,400,6,20
+2024-10-12,Bag,Accessories,West,1600,1,25
+2024-10-13,Socks,Footwear,North,150,12,5
+2024-10-14,Watch,Accessories,South,2600,1,30
+2024-10-15,Shirt,Clothing,East,550,2,10
